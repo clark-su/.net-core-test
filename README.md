@@ -1,2 +1,1 @@
-# .net-core-test
-.net core test
+github发布流程记录
